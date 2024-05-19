@@ -1,7 +1,7 @@
 from django.db import models
 
 from base.models import Student
-from cources.models import Course
+from courses.models import Course
 
 
 class Registry(models.Model):

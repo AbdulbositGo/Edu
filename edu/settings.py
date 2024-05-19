@@ -41,7 +41,7 @@ INSTALLED_APPS = [
     'rest_framework',
 
     'base.apps.BaseConfig',
-    'cources.apps.CourcesConfig',
+    'courses.apps.CoursesConfig',
     'payments.apps.PaymentsConfig',
 
 ]
