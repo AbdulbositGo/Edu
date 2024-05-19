@@ -1,1 +1,1 @@
-web: gunicorn 'edu.wsgi'
+web: python manage.py migrate && gunicorn edu.wsg
